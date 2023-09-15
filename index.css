@@ -90,7 +90,7 @@
     height: 100%;
     position: absolute;
     bottom: -70%;
-    background: url('./../img/per.svg');
+    background: url('./img/per.svg');
     background-size: contain;
     background-repeat: no-repeat;
     z-index: -1;
